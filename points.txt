@@ -1,0 +1,11 @@
+French, Vernon, and Paul M. Brakefield. "Pattern formation: a focus on notch in butterfly eyespots." Current Biology 14.16 (2004): R663-R665.
+
+Liao, Bo-Kai, and Andrew C. Oates. "Delta-Notch signalling in segmentation." Arthropod Structure & Development (2016).
+
+Sprinzak, David, et al. "Cis-interactions between Notch and Delta generate mutually exclusive signalling states." Nature 465.7294 (2010): 86-90.
+
+Guantes, Raúl, and Juan F. Poyatos. "Dynamical principles of two-component genetic oscillators." PLoS Comput Biol 2.3 (2006): e30.
+
+Lewis, Julian. "Autoinhibition with transcriptional delay: a simple mechanism for the zebrafish somitogenesis oscillator." Current Biology 13.16 (2003): 1398-1408.
+
+Schröter, Christian, et al. "Topology and dynamics of the zebrafish segmentation clock core circuit." PLoS Biol 10.7 (2012): e1001364.

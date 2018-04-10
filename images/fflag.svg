@@ -1,0 +1,160 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="450" height="500" version="1.1" xmlns="http://www.w3.org/2000/svg">
+
+  <rect x="50" y="40" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="70" y="40" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="90" y="40" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="110" y="40" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="130" y="40" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  
+  <rect x="150" y="40" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="170" y="40" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="190" y="40" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="210" y="40" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="230" y="40" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+   
+  <rect x="250" y="40" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="270" y="40" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="290" y="40" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="310" y="40" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="330" y="40" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  
+
+  <rect x="50" y="100" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="70" y="100" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="90" y="100" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="110" y="100" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="130" y="100" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  
+  <rect x="150" y="100" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="170" y="100" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="190" y="100" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="210" y="100" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="230" y="100" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+   
+  <rect x="250" y="100" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="270" y="100" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="290" y="100" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="310" y="100" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="330" y="100" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  
+
+  <rect x="50" y="160" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="70" y="160" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="90" y="160" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="110" y="160" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="130" y="160" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  
+  <rect x="150" y="160" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="170" y="160" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="190" y="160" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="210" y="160" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="230" y="160" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+   
+  <rect x="250" y="160" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="270" y="160" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="290" y="160" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="310" y="160" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="330" y="160" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+
+  <rect x="50" y="220" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="70" y="220" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="90" y="220" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="110" y="220" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="130" y="220" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  
+  <rect x="150" y="220" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="170" y="220" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="190" y="220" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="210" y="220" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="230" y="220" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+   
+  <rect x="250" y="220" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="270" y="220" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="290" y="220" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="310" y="220" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="330" y="220" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  
+
+  <rect x="50" y="280" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="70" y="280" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="90" y="280" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="110" y="280" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="130" y="280" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  
+  <rect x="150" y="280" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="170" y="280" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="190" y="280" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="210" y="280" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="230" y="280" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+   
+  <rect x="250" y="280" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="270" y="280" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="290" y="280" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="310" y="280" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="330" y="280" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+
+
+  <rect x="50" y="340" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="70" y="340" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="90" y="340" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="110" y="340" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="130" y="340" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  
+  <rect x="150" y="340" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="170" y="340" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="190" y="340" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="210" y="340" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="230" y="340" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+   
+  <rect x="250" y="340" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="270" y="340" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="290" y="340" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="310" y="340" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="330" y="340" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  
+
+  <rect x="50" y="400" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="70" y="400" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="90" y="400" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="110" y="400" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="130" y="400" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  
+  <rect x="150" y="400" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="170" y="400" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="190" y="400" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="210" y="400" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="230" y="400" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+   
+  <rect x="250" y="400" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="270" y="400" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="290" y="400" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="310" y="400" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="330" y="400" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  
+
+  <rect x="50" y="460" width="20" height="20" style="fill:rgb(0,0,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="70" y="460" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="90" y="460" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="110" y="460" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="130" y="460" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  
+  <rect x="150" y="460" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="170" y="460" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="190" y="460" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="210" y="460" width="20" height="20" style="fill:rgb(255,255,255);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="230" y="460" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+   
+  <rect x="250" y="460" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="270" y="460" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="290" y="460" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="310" y="460" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  <rect x="330" y="460" width="20" height="20" style="fill:rgb(255,0,0);stroke-width:1.0;stroke:rgb(0,0,0)" />
+  
+  <rect x="30" y="80" width="350" height="175" style="fill:None;stroke-width:1.0;stroke:rgb(255,0,0)" />
+
+  <rect x="30" y="260" width="350" height="230" style="fill:None;stroke-width:1.0;stroke:rgb(0,255,0)" />
+
+  
+
+</svg>

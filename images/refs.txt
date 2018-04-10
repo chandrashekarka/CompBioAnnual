@@ -1,0 +1,14 @@
+
+--> zebrafish.jpg --- USC/Gage Crump Lab "An adult zebrafish skeleton is stained for bone (purple) and cartilage (blue)."
+
+--> snake.jpg -- Celine Gomez et al Nature 2008
+
+--> early droso -- Eric F Wieschaus
+
+--> somitogenesis -- Oates
+
+--> droso -- "http://www.cam.ac.uk/research/features/how-close-are-you-to-a-fruit-fly"
+
+
+
+ 
